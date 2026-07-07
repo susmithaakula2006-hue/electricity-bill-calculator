@@ -28,6 +28,17 @@ This is a simple Python project that calculates the electricity bill based on th
 ```bash
 python main.py
 ```
+Electricity Bill Calculator
+
+Enter number of units: 320
+
+Electricity Bill Details
+-------------------------
+Units Consumed : 320
+Rate Applied   : ₹6.00/unit
+Total Bill     : ₹1175.00
+
+Thank you for using Electricity Bill Calculator!
 
 ## Author
 
